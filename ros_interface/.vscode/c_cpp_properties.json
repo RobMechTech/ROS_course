@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shiv/pratice/install/ros_interface/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/shiv/pratice/src/my_pkg/include/**",
+        "/home/shiv/pratice/src/project/include/**",
+        "/home/shiv/pratice/src/ros_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
